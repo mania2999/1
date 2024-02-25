@@ -3,15 +3,10 @@
     "short_name": "Calculator",
     "icons": [
       {
-        "src": "./assets/icon-384 (1).png",
+        "src": "taktak.png",
         "sizes": "384x384",
         "type": "image/png",
         "purpose": "any maskable"
-      },
-      {
-        "src": "./assets/icon-512 (1).png",
-        "sizes": "512x512",
-        "type": "image/png"
       }
     ],
     "theme_color": "#FFFFFF",
